@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 76px 63px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+h1 {
+    text-align: center;
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 700;
+}
+
+.main {
+    margin: 128px 63px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.red {
+    background-color: #FF0000;
+    width: 558px;
+    height: 452px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 64px;
+    font-weight: 700;
+
+}
+
+footer {
+    margin: 76px 63px;
+}
